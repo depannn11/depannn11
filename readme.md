@@ -19,12 +19,15 @@
 
 ### 🛠 Tools & Tech
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,linux,bash,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,termux,bash,git&theme=dark" />
 </p>
 
 ---
 
 ### 📂 Repositories Highlight
+- **baileys**  
+  Learning Baileys Modified
+  
 - **baileys-esm**  
   Learning Baileys with ESM structure  
 
