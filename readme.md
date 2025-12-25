@@ -19,7 +19,7 @@
 
 ### 🛠 Tools & Tech
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,termux,bash,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,linux,bash,git,ubuntu&theme=dark" />
 </p>
 
 ---
