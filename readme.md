@@ -1,44 +1,39 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=DEPAN%20PROJECT&fontSize=80&fontColor=22C55E&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=150&section=header&text=DEPAN%20PROJECT&fontSize=70&fontColor=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=JavaScript+Enthusiast;Bot+%26+Automation;Baileys+Developer" />
-</p>
+## 👤 Profile
+I am a **JavaScript Enthusiast** based in Indonesia, specializing in **Bots & Automation**. I focus on building efficient tools using Node.js and exploring the capabilities of the Baileys library for WhatsApp integration.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/Q87XzlGVK9S1UTnRIU/giphy.gif" width="100%" />
-</p>
+* 🌍 Based in: **Indonesia**
+* 🚀 Current Focus: **WhatsApp Bot Ecosystem & Shell Scripting**
+* 🧪 Hobby: **Reverse engineering and optimizing automation flows**
 
-### ⚡ System Status
-* **User:** `depann11`
-* **Location:** `Indonesia 🇮🇩`
-* **Focus:** `WhatsApp Bot & Automation`
-* **Status:** `Learning by Breaking`
-
-### 🛠️ Arsenal (Tech Stack)
+## 🛠️ Technical Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,linux,bash,git,ubuntu,pnpm,docker,mongodb,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,typescript,pnpm,linux,bash,ubuntu,docker,git,mysql,mongodb,postman&theme=dark" />
 </p>
 
-### 📈 Terminal Analytics
+## 📂 Key Projects & Portfolio
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Baileys-Modified](https://github.com/depann11/baileys)** | Custom implementation of WhatsApp Web API for enhanced bot stability. | `Node.js`, `Baileys` |
+| **[Autoinstaller-Pterodactyl](https://github.com/depann11/Autoinstaller-Pterodactyl)** | Automated shell script for seamless Pterodactyl Panel installation. | `Bash`, `Linux` |
+| **[AI-Jailbreak](https://github.com/depann11/ai-jail-break)** | Research on LLM logic and prompt engineering bypasses. | `Prompt Engineering` |
+| **[Telegraf-Handler](https://github.com/depann11/Command-List-Telegraf)** | Modular command handler for Telegram bot scalability. | `Telegraf`, `Node.js` |
+
+## 📊 Development Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=depann11&show_icons=true&theme=dark&bg_color=000000&title_color=22C55E&text_color=ffffff&icon_color=22C55E&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=depann11&layout=compact&theme=dark&bg_color=000000&title_color=22C55E&text_color=ffffff&icon_color=22C55E&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=depann11&show_icons=true&theme=transparent&title_color=22c55e&text_color=ffffff&icon_color=22c55e&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=depann11&layout=compact&theme=transparent&title_color=22c55e&text_color=ffffff&hide_border=true" height="165" />
 </p>
 
-### 📂 Lab Experiments (Pinned)
+## 📈 Activity History
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=depann11&repo=baileys&theme=dark&bg_color=000000&title_color=22C55E&text_color=ffffff&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=depann11&repo=ai-jail-break&theme=dark&bg_color=000000&title_color=22C55E&text_color=ffffff&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=depann11&theme=transparent&currStreakNum=22c55e&sideLabels=ffffff&stroke=22c55e&hide_border=true" width="100%" />
 </p>
 
-### 🐍 Contribution Grid
-<p align="center">
-  <img src="https://raw.githubusercontent.com/depann11/depann11/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
-</p>
-
-### 📡 Connection Established
+## 📬 Contact & Socials
 <p align="left">
   <a href="https://t.me/depanncapee">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -49,5 +44,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=2&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=20&section=footer" />
 </p>
