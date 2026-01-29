@@ -6,53 +6,50 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Just+want+to+learn;JavaScript+Enthusiast;Bot+%26+Automation+Learner" />
 </p>
 
----
-
 ### 👋 About Me
-- 🇮🇩 From Indonesia  
-- 🧠 Learning **JavaScript** step by step  
-- 🤖 Focused on **Bots & Automation**
-- 🧪 Experimenting with **Baileys** & **Node.js**
-- 🚧 Repositories = learning playground
+- 🇮🇩 **Origin:** From Indonesia  
+- 🧠 **Learning:** **JavaScript** (Step by Step)  
+- 🤖 **Focus:** **Bots & Automation**
+- 🧪 **Experimenting:** **Baileys** & **Node.js**
+- 🚧 **Philosophy:** Repositories = learning playground
 
----
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=depann11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="depann11 stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=depann11&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=depann11&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
 
 ### 🛠 Tools & Tech
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,linux,bash,git,ubuntu&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,linux,bash,git,ubuntu,pnpm,docker&theme=dark" />
 </p>
 
----
+### 📂 Projects Highlight
+> *Learning by breaking things.*
 
-### 📂 Repositories Highlight
-- **baileys**  
-  Learning Baileys Modified
-  
-- **baileys-esm**  
-  Learning Baileys with ESM structure  
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **Baileys Modified** | Learning Baileys core | `Node.js` |
+| **Baileys ESM** | Modern structure exploration | `JavaScript` |
+| **Auto-Pterodactyl** | Shell automation script | `Bash` |
+| **AI Jailbreak** | Prompt Engineering | `Logic` |
 
-- **Command-List-Telegraf**  
-  Simple command handler for Telegram bots  
+### 🐍 Activity Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/depann11/depann11/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-- **Autoinstaller-Pterodactyl**  
-  Shell-based automation installer  
+### 📫 Reach Out
+<p align="left">
+<a href="https://t.me/depanncapee" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="depanncapee" /></a>
+<a href="https://github.com/depann11" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="depann11" /></a>
+</p>
 
-- **ai-jail-break**  
-  Logic & prompt experiments  
-
----
-
-### 🌱 Philosophy
-> Learn by doing.  
-> Break things.  
-> Fix them.  
-> Repeat.
-
----
-
-### 📫 Contact
-- Telegram: [@depanncapee](https://t.me/depanncapee)
-- GitHub: https://github.com/depann11
+<br />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111827&height=40&section=footer" />
